@@ -10,6 +10,6 @@ This application is a `Maven` test framework setup for the testing of the Travel
 - JUnit5
 - Selenium Webdriver
 
-The purpose of the test framework is to automate frequently repeated and mudane tasks that are can be carried out much faster, accurately, efficiently and less costly that what would be required by human effort.
+The purpose of the test framework is to automate frequently repeated and mudane tasks that can be carried out much faster, accurately, efficiently and less costly than would be required by human effort.
 
 Notes on the TravelApp testing results and observations can be found: [HERE](docs/Notes.md)
